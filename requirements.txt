@@ -1,0 +1,5 @@
+nibabel>=5.4.0
+matplotlib>=3.8.0
+SimpleITK>=2.5.0
+PyQt5>=5.15.0
+numpy>=1.26.0
